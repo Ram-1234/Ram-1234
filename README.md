@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramnayan Yadav (@Ram-1234)
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning frontend responsive and try to make user interactive ui.
+- 🌱 I’m currently learning frontend responsiveness, popup page(modal), pagination  and try to make user interactive ui.
 - 💞️ I’m looking to collaborate on Html, Css, Reactjs, & Javascript, try to Angular with
 - 📫 How to reach me: ramnayan699@gmail.com,9651444852
 
