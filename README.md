@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ramnayan Yadav (@Ram-1234)
+- 👋 Hi, I’m Ramnayan Yadav 
 - 👀 I’m interested in fullstack web development(# fullstack developer)
 - 🌱 I have 2.5 years of experience in frontend development using React.js React-native Javascript Typescript and Redux(# frontend developer).
-- 💞️ I’m looking to collaborate on Html, Css, React.js React-native Javascript Typescript and Redux,and also learning to nodejs express and mongoDB.
+- 💞️ I’m looking to collaborate on Html, Css, React.js React-native Javascript Typescript and Redux,and learning to nodejs express and mongoDB.
 - 📫 How to reach me: ramnayan699@gmail.com,9651444852
 
 <!---
